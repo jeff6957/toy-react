@@ -71,7 +71,7 @@ package-lock.json
 
 .tea
 temp/
-dist/
+# dist/
 
 test/unit/coverage
 test/e2e/reports
