@@ -25,6 +25,7 @@ export class Component {
     this._root = null;
   }
   setAttribute(name, value) {
+    // 这里存了props 但是没有应用
     this.props[name] = value;
   }
   appendChild(component) {

@@ -18,10 +18,11 @@ class MyComponnent extends Component {
 }
 
 
-// createElement(MyComponnent, {
+// rac.createElement(MyComponnent, {
 //   id: 'a',
 //   "class": "c",
 // }, createElement("div", null, "abc"), createElement("div", null), createElement("div", null))
+
 
 render(<MyComponnent id="a" class="b">
   <div>sfasdf</div>
